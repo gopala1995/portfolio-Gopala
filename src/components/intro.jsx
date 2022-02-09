@@ -18,7 +18,7 @@ class Intro extends React.Component {
                 <img
                   src={logo2}
                   alt="logo"
-                  style={{ maxWidth: "200px", borderRadius: "10%" }}
+                  style={{ maxWidth: "200px", borderRadius: "70%" }}
                 />
               </a>
               <h1 className="intro-title mb-4">Hello, I am Gopala</h1>
