@@ -1,8 +1,8 @@
 import React from "react";
 import "./portfolio.module.css";
 //import stock
-import stock from "../img/4.jpg";
-import stock1 from "../img/1.jpg";
+import stock from "../img/1.jpg";
+import stock1 from "../img/5.jpg";
 import stock2 from "../img/2.jpg";
 import stock3 from "../img/3.jpg";
 import stock4 from "../img/4.jpg";
@@ -57,13 +57,13 @@ function Portfolio() {
                 <div className="work-content">
                   <div className="row">
                     <div className="col-sm-8">
-                      <h2 className="w-title">Mini-translator</h2>
+                      <h2 className="w-title">IndiaMart clone</h2>
                       <div className="w-more">
-                        <span className="w-ctegory">html,css,javascript</span>
                         <p className="w-text">
-                          A simple mini translator used to convert from one
-                          language<br></br>to another language
+                          An Ecommerce website where buyers can contact
+                          suppliers directly
                         </p>
+                        <span className="w-ctegory">html,css,javascript</span>
                       </div>
                     </div>
                     <div className="col-sm-4">
@@ -118,7 +118,7 @@ function Portfolio() {
               }}
             >
               <a
-                href="https://github.com/pankajganjale/pocket-bakery-mart"
+                href="https://github.com/gopala1995/Indiamart.com_Project.git"
                 target="_blank"
               >
                 <img
@@ -132,10 +132,7 @@ function Portfolio() {
                   alt="hit"
                 />
               </a>
-              <a
-                href="https://musing-nobel-3e8cc1.netlify.app/"
-                target="_blank"
-              >
+              <a href="https://indiamart-vigi.netlify.app/" target="_blank">
                 <img
                   style={{
                     height: "30px",
@@ -163,16 +160,16 @@ function Portfolio() {
                 <div className="work-content">
                   <div className="row">
                     <div className="col-sm-8">
-                      <h2 className="w-title">Lybrate.com Clone</h2>
+                      <h2 className="w-title">MedPlus.com Clone</h2>
 
                       <div className="w-more">
-                        <span className="w-ctegory">
-                          HTML5 CSS3 Express NodeJs VanillaJS
-                        </span>{" "}
                         <p className="w-text">
-                          A clone of very famous medical website where user can
-                          get all type of medical helps.
+                          A clone of medical website where user can
+                          buy all type of medical realted things.
                         </p>
+                        <span className="w-ctegory">
+                          HTML5 CSS3 Express NodeJs
+                        </span>
                       </div>
                     </div>
                     <div className="col-sm-4">
@@ -227,7 +224,7 @@ function Portfolio() {
               }}
             >
               <a
-                href="https://github.com/harshchaturvedi1/lybrate_clone"
+                href="https://github.com/gopala1995/Medplus.git"
                 target="_blank"
               >
                 <img
@@ -241,7 +238,10 @@ function Portfolio() {
                   alt="hit"
                 />
               </a>
-              <a href="https://lybrate.herokuapp.com/" target="_blank">
+              <a
+                href="https://medplus-elated-bhaskara.netlify.app/"
+                target="_blank"
+              >
                 <img
                   style={{
                     height: "30px",
@@ -269,15 +269,15 @@ function Portfolio() {
                 <div className="work-content">
                   <div className="row">
                     <div className="col-sm-8">
-                      <h2 className="w-title">Realme.com Clone</h2>
+                      <h2 className="w-title">FlipKart.com Clone</h2>
                       <div className="w-more">
-                        <span className="w-ctegory">
-                          HTML5 CSS3 EJs Express
-                        </span>
                         <p className="w-text">
-                          Realme.com is an electronics website. A user can
-                          login, search and see products here.
+                        A clone of very famous E-commerce website where user can
+                          buy Online many .
                         </p>
+                        <span className="w-ctegory">
+                          HTML5 CSS3 EJs Express Node.js
+                        </span>
                       </div>
                     </div>
                     <div className="col-sm-4">
@@ -332,7 +332,7 @@ function Portfolio() {
               }}
             >
               <a
-                href="https://github.com/ankuranand598/realme-dummy"
+                href="https://github.com/gopala1995/Flipkart_backend_projrct.git"
                 target="_blank"
               >
                 <img
@@ -346,7 +346,7 @@ function Portfolio() {
                 />
               </a>
               <a
-                href="https://ankuranand598.github.io/realme-dummy/"
+                href="https://copyflipcart.netlify.app/"
                 target="_blank"
               >
                 <img
