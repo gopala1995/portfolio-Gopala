@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fa92f9202c61b22869665551155d583d",
+    "revision": "7e74fd10423d7082ecf6c9b7d7965256",
     "url": "/portfolio-Gopala/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio-Gopala/static/css/2.8850a738.chunk.css"
   },
   {
-    "revision": "82ded6129238d31a868d",
-    "url": "/portfolio-Gopala/static/css/main.59c9550c.chunk.css"
+    "revision": "277d73c2d1142a0acc28",
+    "url": "/portfolio-Gopala/static/css/main.dd865e58.chunk.css"
   },
   {
     "revision": "9567dadb6c234058ec12",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio-Gopala/static/js/2.90130526.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "82ded6129238d31a868d",
-    "url": "/portfolio-Gopala/static/js/main.ff70e6a8.chunk.js"
+    "revision": "277d73c2d1142a0acc28",
+    "url": "/portfolio-Gopala/static/js/main.c14c5d6c.chunk.js"
   },
   {
     "revision": "cb1acd74988093b86b22",
@@ -64,8 +64,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio-Gopala/static/media/fontawesome-webfont.674f50d2.eot"
   },
   {
-    "revision": "912ec66d7572ff821749319396470bde",
-    "url": "/portfolio-Gopala/static/media/fontawesome-webfont.912ec66d.svg"
+    "revision": "acf3dcb7ff752b5296ca23ba2c7c2606",
+    "url": "/portfolio-Gopala/static/media/fontawesome-webfont.acf3dcb7.svg"
   },
   {
     "revision": "af7ae505a9eed503f8b8e6982036873e",
@@ -152,8 +152,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio-Gopala/static/media/ionicons.2c2ae068.eot"
   },
   {
-    "revision": "621bd386841f74e0053cb8e67f8a0604",
-    "url": "/portfolio-Gopala/static/media/ionicons.621bd386.svg"
+    "revision": "c037dbbc0e6790f30e824a50010df5fb",
+    "url": "/portfolio-Gopala/static/media/ionicons.c037dbbc.svg"
   },
   {
     "revision": "75853c4c788d9da75630f7f7a1dfee11",

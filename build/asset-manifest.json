@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/portfolio-Gopala/static/css/main.59c9550c.chunk.css",
-    "main.js": "/portfolio-Gopala/static/js/main.ff70e6a8.chunk.js",
-    "main.js.map": "/portfolio-Gopala/static/js/main.ff70e6a8.chunk.js.map",
+    "main.css": "/portfolio-Gopala/static/css/main.dd865e58.chunk.css",
+    "main.js": "/portfolio-Gopala/static/js/main.c14c5d6c.chunk.js",
+    "main.js.map": "/portfolio-Gopala/static/js/main.c14c5d6c.chunk.js.map",
     "runtime-main.js": "/portfolio-Gopala/static/js/runtime-main.7b227df6.js",
     "runtime-main.js.map": "/portfolio-Gopala/static/js/runtime-main.7b227df6.js.map",
     "static/css/2.8850a738.chunk.css": "/portfolio-Gopala/static/css/2.8850a738.chunk.css",
     "static/js/2.90130526.chunk.js": "/portfolio-Gopala/static/js/2.90130526.chunk.js",
     "static/js/2.90130526.chunk.js.map": "/portfolio-Gopala/static/js/2.90130526.chunk.js.map",
     "index.html": "/portfolio-Gopala/index.html",
-    "precache-manifest.b30bc5373ff5d0f515ff5af15f6a23ad.js": "/portfolio-Gopala/precache-manifest.b30bc5373ff5d0f515ff5af15f6a23ad.js",
+    "precache-manifest.b1642f579ad8c94876825e31e3bf24ed.js": "/portfolio-Gopala/precache-manifest.b1642f579ad8c94876825e31e3bf24ed.js",
     "service-worker.js": "/portfolio-Gopala/service-worker.js",
     "static/css/2.8850a738.chunk.css.map": "/portfolio-Gopala/static/css/2.8850a738.chunk.css.map",
-    "static/css/main.59c9550c.chunk.css.map": "/portfolio-Gopala/static/css/main.59c9550c.chunk.css.map",
+    "static/css/main.dd865e58.chunk.css.map": "/portfolio-Gopala/static/css/main.dd865e58.chunk.css.map",
     "static/js/2.90130526.chunk.js.LICENSE.txt": "/portfolio-Gopala/static/js/2.90130526.chunk.js.LICENSE.txt",
     "static/media/1.jpg": "/portfolio-Gopala/static/media/1.fa4f32a1.jpg",
     "static/media/2.jpg": "/portfolio-Gopala/static/media/2.e252c4d4.jpg",
@@ -38,7 +38,7 @@
     "static/media/img4.jpg": "/portfolio-Gopala/static/media/img4.98c93cdc.jpg",
     "static/media/img5.jpg": "/portfolio-Gopala/static/media/img5.032a89c7.jpg",
     "static/media/img6.jpg": "/portfolio-Gopala/static/media/img6.38b032f1.jpg",
-    "static/media/ionicons.css": "/portfolio-Gopala/static/media/ionicons.621bd386.svg",
+    "static/media/ionicons.css": "/portfolio-Gopala/static/media/ionicons.c037dbbc.svg",
     "static/media/login.jpg": "/portfolio-Gopala/static/media/login.75853c4c.jpg",
     "static/media/male1.png": "/portfolio-Gopala/static/media/male1.3ec3891b.png",
     "static/media/product.jpg": "/portfolio-Gopala/static/media/product.d8f0991b.jpg"
@@ -47,7 +47,7 @@
     "static/js/runtime-main.7b227df6.js",
     "static/css/2.8850a738.chunk.css",
     "static/js/2.90130526.chunk.js",
-    "static/css/main.59c9550c.chunk.css",
-    "static/js/main.ff70e6a8.chunk.js"
+    "static/css/main.dd865e58.chunk.css",
+    "static/js/main.c14c5d6c.chunk.js"
   ]
 }
