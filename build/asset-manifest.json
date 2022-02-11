@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/portfolio-Gopala/static/css/main.dd865e58.chunk.css",
-    "main.js": "/portfolio-Gopala/static/js/main.c14c5d6c.chunk.js",
-    "main.js.map": "/portfolio-Gopala/static/js/main.c14c5d6c.chunk.js.map",
+    "main.js": "/portfolio-Gopala/static/js/main.e902e464.chunk.js",
+    "main.js.map": "/portfolio-Gopala/static/js/main.e902e464.chunk.js.map",
     "runtime-main.js": "/portfolio-Gopala/static/js/runtime-main.7b227df6.js",
     "runtime-main.js.map": "/portfolio-Gopala/static/js/runtime-main.7b227df6.js.map",
     "static/css/2.8850a738.chunk.css": "/portfolio-Gopala/static/css/2.8850a738.chunk.css",
     "static/js/2.90130526.chunk.js": "/portfolio-Gopala/static/js/2.90130526.chunk.js",
     "static/js/2.90130526.chunk.js.map": "/portfolio-Gopala/static/js/2.90130526.chunk.js.map",
     "index.html": "/portfolio-Gopala/index.html",
-    "precache-manifest.b1642f579ad8c94876825e31e3bf24ed.js": "/portfolio-Gopala/precache-manifest.b1642f579ad8c94876825e31e3bf24ed.js",
+    "precache-manifest.c5ec1ed65fb72bb98980ab73843c212c.js": "/portfolio-Gopala/precache-manifest.c5ec1ed65fb72bb98980ab73843c212c.js",
     "service-worker.js": "/portfolio-Gopala/service-worker.js",
     "static/css/2.8850a738.chunk.css.map": "/portfolio-Gopala/static/css/2.8850a738.chunk.css.map",
     "static/css/main.dd865e58.chunk.css.map": "/portfolio-Gopala/static/css/main.dd865e58.chunk.css.map",
@@ -48,6 +48,6 @@
     "static/css/2.8850a738.chunk.css",
     "static/js/2.90130526.chunk.js",
     "static/css/main.dd865e58.chunk.css",
-    "static/js/main.c14c5d6c.chunk.js"
+    "static/js/main.e902e464.chunk.js"
   ]
 }
