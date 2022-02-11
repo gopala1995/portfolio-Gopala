@@ -168,7 +168,7 @@ function Portfolio() {
                           buy all type of medical realted things.
                         </p>
                         <span className="w-ctegory">
-                          HTML5 CSS3 Express NodeJs
+                          HTML5 CSS3 Javascript
                         </span>
                       </div>
                     </div>
@@ -355,7 +355,7 @@ function Portfolio() {
                     marginLeft: "20px",
                     marginLeft: "45%",
                   }}
-                  src={stockk}
+                  src={stockl}
                   alt="hit"
                 />
               </a>
