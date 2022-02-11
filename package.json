@@ -1,8 +1,8 @@
-{
-  "name": "portfolio",
+{ 
+  "name": "portfolio-Gopala",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ankuranand598.github.io/portfolio",
+  "homepage": "https://gopala1995.github.io/portfolio-Gopala",
   "dependencies": {
     "bootstrap": "^4.6.1",
     "gh-pages": "^2.2.0",
@@ -41,4 +41,5 @@
       "last 1 safari version"
     ]
   }
+ 
 }
