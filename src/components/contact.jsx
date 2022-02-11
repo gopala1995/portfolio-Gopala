@@ -112,7 +112,7 @@ function Contact() {
                         <br />
                         <p style={{ margin: "0" }}>
                           <span style={{ fontWeight: "bold" }}>Email:</span>
-                          <span> gopala_fw11_053@masai.school</span>
+                          <span> ggopala1904@gmial.com</span>
                         </p>
                         <br />
                         <p style={{ marginTop: "-22px" }}>
