@@ -116,7 +116,7 @@ function Contact() {
                         </p>
                         <br />
                         <p style={{ marginTop: "-22px" }}>
-                          <span style={{ fontWeight: "bold" }}> Mob No.:</span>
+                          <span style={{ fontWeight: "bold" }}> Mobile No.:</span>
                           <span>9771052743</span>
                         </p>
                       </p>
