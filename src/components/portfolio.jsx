@@ -63,7 +63,7 @@ function Portfolio() {
                           An Ecommerce website where buyers can contact
                           suppliers directly
                         </p>
-                        <span className="w-ctegory">html,css,javascript</span>
+                        <span className="w-ctegory"> HTML5 CSS3 Javascript</span>
                       </div>
                     </div>
                     <div className="col-sm-4">
