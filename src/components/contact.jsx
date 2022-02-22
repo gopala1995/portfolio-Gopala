@@ -20,7 +20,7 @@ function Contact() {
                     </div>
                     <div>
                       <form
-                        action="https://formspree.io/f/mwkyervn"
+                        action="https://formspree.io/f/xpzbdjdb"
                         method="POST"
                         className="contactForm"
                       >

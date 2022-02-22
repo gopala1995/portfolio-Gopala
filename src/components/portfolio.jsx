@@ -164,8 +164,8 @@ function Portfolio() {
 
                       <div className="w-more">
                         <p className="w-text">
-                          A clone of medical website where user can
-                          buy all type of medical realted things.
+                          A clone of medical web-application where user can
+                          purchage Online all type of prescripted and OTC medicines.
                         </p>
                         <span className="w-ctegory">
                           HTML5 CSS3 Javascript
@@ -249,7 +249,7 @@ function Portfolio() {
                     marginLeft: "45%",
                     marginTop: "-10px",
                   }}
-                  src={myImg}
+                  src={stockl}
                   alt="hit"
                 />
               </a>
@@ -273,7 +273,7 @@ function Portfolio() {
                       <div className="w-more">
                         <p className="w-text">
                         A clone of very famous E-commerce website where user can
-                          buy Online many .
+                          buy Online many type of products .
                         </p>
                         <span className="w-ctegory">
                           HTML5 CSS3 EJs Express Node.js

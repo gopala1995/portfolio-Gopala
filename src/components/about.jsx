@@ -1,10 +1,14 @@
 import React from "react";
-import myImage from "../img/icons8-html-5.svg";
-import myImage1 from "../img/icons8-css3.svg";
-import myImage2 from "../img/icons8-react.svg";
-import myImage3 from "../img/icons8-redux.svg";
-import myImage4 from "../img/icons8-node-js.svg";
-import myImage5 from "../img/icons8-javascript.svg";
+import myImage from "../img/icons8-html-5-50.png";
+import myImage1 from "../img/icons8-css3-50.png";
+import reactimg from "../img/icons8-react-80.png";
+import myImage2 from "../img/icons8-mongo-96.png";
+import mypostman from "../img/icons8-postman-api-64.png";
+import myImage3 from "../img/icons8-redux-50.png";
+import myexpress from "../img/icons8-express-vpn-100.png";
+import myImage4 from "../img/icons8-node-js-48.png";
+import mynpm from "../img/icons8-npm-48.png";
+import myImage5 from "../img/icons8-javascript-logo-50.png";
 class About extends React.Component {
   constructor() {
     super();
@@ -130,9 +134,10 @@ class About extends React.Component {
                     }}
                   >
                     <img
-                      style={{ height: "100px", marginTop: "10px" }}
+                      style={{ height: "50px", marginTop: "15px" }}
                       src={myImage}
                     />
+                    <p>HTML</p>
                   </div>
                   <div
                     style={{
@@ -146,25 +151,10 @@ class About extends React.Component {
                   >
                     {" "}
                     <img
-                      style={{ height: "100px", marginTop: "10px" }}
+                      style={{ height: "50px", marginTop: "15px" }}
                       src={myImage1}
                     />
-                  </div>
-                  <div
-                    style={{
-                      border: "none",
-                      height: "110px",
-                      width: "110px",
-                      background: "#e9ecef",
-                      borderRadius: "50%",
-                      textAlign: "center",
-                    }}
-                  >
-                    {" "}
-                    <img
-                      style={{ height: "100px", marginTop: "5px" }}
-                      src="https://img.icons8.com/ultraviolet/50/000000/react--v2.png"
-                    />
+                    <p>CSS</p>
                   </div>
                   <div
                     style={{
@@ -177,40 +167,115 @@ class About extends React.Component {
                     }}
                   >
                     <img
-                      style={{ height: "100px", marginTop: "1px" }}
-                      src={myImage3}
-                    />
-                  </div>
-                  <div
-                    style={{
-                      border: "none",
-                      height: "110px",
-                      width: "110px",
-                      background: "#e9ecef",
-                      borderRadius: "50%",
-                      textAlign: "center",
-                    }}
-                  >
-                    {" "}
-                    <img
-                      style={{ height: "100px", marginTop: "5px" }}
-                      src={myImage4}
-                    />
-                  </div>
-                  <div
-                    style={{
-                      border: "none",
-                      height: "110px",
-                      width: "110px",
-                      background: "#e9ecef",
-                      borderRadius: "50%",
-                      textAlign: "center",
-                    }}
-                  >
-                    <img
-                      style={{ height: "100px", marginTop: "5px" }}
+                      style={{ height: "50px", marginTop: "15px" }}
                       src={myImage5}
                     />
+                    <p>JavaScript</p>
+                  </div>
+                  <div
+                    style={{
+                      border: "none",
+                      height: "110px",
+                      width: "110px",
+                      background: "#e9ecef",
+                      borderRadius: "50%",
+                      textAlign: "center",
+                    }}
+                  >
+                    {" "}
+                    <img
+                      style={{ height: "50px", marginTop: "15px" }}
+                      src={reactimg}
+                      //src="https://img.icons8.com/ultraviolet/50/000000/react--v2.png"
+                    />
+                    <p>React js</p>
+                  </div>
+                  <div
+                    style={{
+                      border: "none",
+                      height: "110px",
+                      width: "110px",
+                      background: "#e9ecef",
+                      borderRadius: "50%",
+                      textAlign: "center",
+                    }}
+                  >
+                    {" "}
+                    <img
+                      style={{ height: "50px", marginTop: "15px" }}
+                      src={myImage2}
+                      // src= "https://img.icons8.com/color/48/000000/mongodb.png"
+                    />
+                    <p>MongoDB</p>
+                  </div>
+                  <div
+                    style={{
+                      border: "none",
+                      height: "110px",
+                      width: "110px",
+                      background: "#e9ecef",
+                      borderRadius: "50%",
+                      textAlign: "center",
+                    }}
+                  >
+                    <img
+                      style={{ height: "50px", marginTop: "15px" }}
+                      src={myImage3}
+                    />
+                    <p>Redux</p>
+                  </div>
+                  <div
+                    style={{
+                      border: "none",
+                      height: "110px",
+                      width: "110px",
+                      background: "#e9ecef",
+                      borderRadius: "50%",
+                      textAlign: "center",
+                    }}
+                  >
+                    {" "}
+                    <img
+                      style={{ height: "50px", marginTop: "15px" }}
+                      src={myImage4}
+                    />
+                    <p>Node.js</p>
+                  </div>
+
+                  <div
+                    style={{
+                      border: "none",
+                      height: "110px",
+                      width: "110px",
+                      background: "#e9ecef",
+                      borderRadius: "50%",
+                      textAlign: "center",
+                    }}
+                  >
+                    {" "}
+                    <img
+                      style={{ height: "50px", marginTop: "15px" }}
+                      src={myexpress}
+                      //src="https://pngimage.net/wp-content/uploads/2018/05/express-js-png-5.png"
+                    />
+                    <p>Express</p>
+                  </div>
+                  <div
+                    style={{
+                      border: "none",
+                      height: "110px",
+                      width: "110px",
+                      background: "#e9ecef",
+                      borderRadius: "50%",
+                      textAlign: "center",
+                    }}
+                  >
+                    <img
+                      style={{ height: "50px", marginTop: "15px" }}
+                      src={mynpm}
+                      // src="https://img.icons8.com/color/48/000000/npm.png"
+                    />
+                    <p>npm</p>
                   </div>
                 </div>
               </div>

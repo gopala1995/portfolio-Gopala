@@ -1,7 +1,7 @@
 import React from "react";
 import "./stars.scss";
 import Typed from "react-typed";
-import logo2 from "../img/Professional.jpg";
+import logo2 from "../img/Gopala13.png";
 class Intro extends React.Component {
   render() {
     return (
@@ -18,7 +18,7 @@ class Intro extends React.Component {
                 <img
                   src={logo2}
                   alt="logo"
-                  style={{ maxWidth: "200px", borderRadius: "46%" }}
+                  style={{ maxWidth: "180px", borderRadius: "50%" }}
                 />
               </a>
               <h1 className="intro-title mb-4">Hello, I am Gopala</h1>

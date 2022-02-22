@@ -93,7 +93,7 @@ class Navbar extends React.Component {
               // style={{ maxWidth: "160px", borderRadius: "50%" }}
             /> */}
 
-            <h2 style={{ fontFamily: "Pushster", color: "#00BCD4" }}>Gopala</h2>
+            <h2 style={{ fontFamily: "Pushster", color: "#0078ff" }}>Gopala</h2>
           </a>
           <button
             className="navbar-toggler collapsed"
